@@ -1,4 +1,4 @@
-// Fet
+// NSFetchedResultsController numberOfRowsInSection
 // 
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
